@@ -3,8 +3,12 @@
 I Would Like to share my new project using Power BI to practice these skills
 
 1-Data Cleaning using Power BI
+
 2-Using Dex to create new measures and columns
+
 3-Data Visualization
+
+
 
 ![HR_Dashboard_gif](https://user-images.githubusercontent.com/111077052/187294902-dc8517da-4fbb-4e56-aa55-9bf05893eb4e.gif)
 
